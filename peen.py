@@ -1,6 +1,7 @@
 from math import exp
 from time import sleep
 
+
 d_siz = 0.00
 while True:
     try:
